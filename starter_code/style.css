@@ -1,15 +1,15 @@
 body {
-  background-image: url("images/bgsoccer.png");
+  background-color: white;
   background-size: cover;
 }
 #example {
   border: 0px solid black;
   border-radius: 3px;
-  width: 412px;
-  height: 550px;
+  width: 200px;
+  height: 600px;
   background-color: #ddd;
-  background-image: url("images/soccer.jpg");
-  background-size: cover;
+  background-image: url("images/Road.jpg");
+  background-size: contain;
 }
 #start {
   width: 30vh;
